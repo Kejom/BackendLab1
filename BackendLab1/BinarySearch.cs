@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BackendLab1
 {
-    class BinarySearch
+    public class BinarySearch
     {
         public int BinarySort(List<int> listToSearch, int valToSearch)
         {
